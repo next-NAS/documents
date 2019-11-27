@@ -1,6 +1,11 @@
 # nextNAS文档合集
 ## 当前版本号
 v0.01
+
+## 子项目列表
+- [前端](https://github.com/next-NAS/frontend)
+- [后台](https://github.com/next-NAS/backend)
+
 ## 开发进度
 - [x] 前后端分离  
 - [x] 文件夹上传  
@@ -12,5 +17,6 @@ v0.01
 - [ ] 容器化部署  
 - [ ] 后台集群环境  
 - [ ] 微服务架构  
+
 ## 文档列表
 [前后端接口文档](https://github.com/next-NAS/documents/blob/master/interface.md)
