@@ -13,4 +13,4 @@ v0.01
 - [ ] 后台集群环境  
 - [ ] 微服务架构  
 ## 文档列表
-[前后端接口文档](../interface.md)
+[前后端接口文档](https://github.com/next-NAS/documents/blob/master/interface.md)
