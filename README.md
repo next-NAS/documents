@@ -8,8 +8,8 @@ v0.01
 
 ## 开发进度
 - [x] 前后端分离  
-- [x] 文件夹上传  
-- [ ] 创建任务  
+- [x] 数据集上传  
+- [ ] 创建机器学习任务  
 - [ ] 数据特征可视化  
 - [ ] 模型训练  
 - [ ] 模型可视化  
@@ -19,4 +19,4 @@ v0.01
 - [ ] 微服务架构  
 
 ## 文档列表
-[前后端接口文档](https://github.com/next-NAS/documents/blob/master/interface.md)
+[服务器接口文档](https://github.com/next-NAS/documents/blob/master/interface.md)
